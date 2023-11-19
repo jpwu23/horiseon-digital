@@ -14,5 +14,6 @@ N/A
 ## Usage 
 Navigate across and better understand the services that Horiseon Social Solutions offer by clicking on the corresponding service using the navigation bar at the top of the webpage.
 ![alt text](assets/images/screenshot2.PNG)
+
 ## License
 N/A
