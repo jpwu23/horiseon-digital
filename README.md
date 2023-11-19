@@ -10,7 +10,7 @@ Though center-aligning isn't that notable a takeaway, some key learnings can be 
 ## Screenshot
 ```md
     ![alt text](assets/images/screenshot.png)
-    ``` 
+    ```
 
 ## Installation
 
