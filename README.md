@@ -6,8 +6,6 @@ The purpose of this project was to help Horiseon Social Solutions, a digital mar
 
 ## Learnings/takeaways
 Though center-aligning isn't that notable a takeaway, some key learnings can be drawn from attempting to position the headings and paragraph elements correctly within the website's cards. Instead of enclosing the cards' header and paragraph tags in figure tags with class selectors, div tags proved more effective when it came to manipulating the positioning of text and corresponding headings. 
-
-## Div Tag Usage Screenshot
 ![alt text](assets/images/screenshot.PNG)
         
 ## Installation
@@ -15,6 +13,6 @@ N/A
 
 ## Usage 
 Navigate across and better understand the services that Horiseon Social Solutions offer by clicking on the corresponding service using the navigation bar at the top of the webpage.
-
+![alt text](assets/images/screenshot2.PNG)
 ## License
 N/A
