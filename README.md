@@ -11,6 +11,7 @@ Though center-aligning isn't that notable a takeaway, some key learnings can be 
 ![alt text](assets/images/screenshot.PNG)
         
 ## Installation
+N/A
 
 ## Usage 
 Navigate across and better understand the services that Horiseon Social Solutions offer by clicking on the corresponding service using the navigation bar at the top of the webpage.
