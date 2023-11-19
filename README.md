@@ -6,11 +6,9 @@ The purpose of this project was to help Horiseon Social Solutions, a digital mar
 
 ## Learnings/takeaways
 Though center-aligning isn't that notable a takeaway, some key learnings can be drawn from trying to center-align the headings and paragraph elements in the website's cards. Instead of enclosing the cards' <h2> and <p> tags in <figure></figure> tags with class selectors, <div></div> tags proved more effective when it came to manipulating the positioning of text. 
-```md
-    ![Alt text](C:/Users/jimmy/bootcamp/homework/horiseon-digital/assets/images/screenshot.png)
-    ``` 
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title") 
 ## Usage 
-### Navigate across and better understand the services that Horiseon Social Solutions offer by clicking on the corresponding service using the navigation bar at the top of the webpage.
+Navigate across and better understand the services that Horiseon Social Solutions offer by clicking on the corresponding service using the navigation bar at the top of the webpage.
 
 ## License
-### N/A
+N/A
