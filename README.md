@@ -8,10 +8,8 @@ The purpose of this project was to help Horiseon Social Solutions, a digital mar
 Though center-aligning isn't that notable a takeaway, some key learnings can be drawn from trying to center-align the headings and paragraph elements in the website's cards. Instead of enclosing the cards header and paragraph tags in figure tags with class selectors, div tags proved more effective when it came to manipulating the positioning of text. 
 
 ## Screenshot
-```md
     ![alt text](assets/images/screenshot.png)
-    ```
-
+    
 ## Installation
 
 ## Usage 
